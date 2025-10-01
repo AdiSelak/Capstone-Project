@@ -19,7 +19,7 @@ Tools
 - shapmanager: Used to streamline SHAP visualisations with additional functions such as categorical labeling, grouping of features, color optimisation, etc.
 
 User Guides
-- Example code of using the SMOTE Neural Network and multi-class X-Boost implementations with the encoder, visualiser, and shap manager class.
+- Example code of using the SMOTE Neural Network and multi-class X-Boost implementations with the Correlation Encoder, Cluster Visualiser, and SHAP Manager classes.
 
 Project Collaborators:
 - Mathew Coleman (Project Management, General Documentation, Validation Testing)
