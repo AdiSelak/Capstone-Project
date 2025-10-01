@@ -1,5 +1,5 @@
 # Capstone Project: Machine Learning and Explainable AI for Cybersecurity
-- This repository includes the tools and implementations that I completed for a group Capstone project. The project was to create a machine learning model for threat detection on the USNW-NB15 dataset and use explainable AI to evaluate the decision making process of black-box models.
+- This repository includes the technical tools and implementations that I completed for a group Capstone project. The project was to create a machine learning model for threat detection on the USNW-NB15 dataset and use explainable AI to evaluate the decision making process of black-box models.
 
 Datasets
 - USNW-NB15 Dataset.
