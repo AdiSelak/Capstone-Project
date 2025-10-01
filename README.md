@@ -5,21 +5,21 @@ Datasets
 - USNW-NB15 Dataset.
 
 Models
-- models - Contains the dynamic Neural Network model. The models would used in the implementation are saved versions that have been previously trained.
+- models - Contains the dynamic Neural Network model. The models used in this repository are saved versions that have been previously trained.
 
 Tests
 - Tests conducted in the project are not included in this repository.
 
 Reports
-- Evaluations using SHAP on SMOTE Model and Multiclass classifier Tree Model. The reports provide an example of how to evaluate some of the network traffic data through the SHAP class for both implementations. Additionally some extra context is provided about how using SMOTE sampling and multi-class labels affect the shapely values.
+- Evaluations using SHAP on the Neural Network model and multi-class XG-Boost classifier. The reports provide an example of how to evaluate some of the network traffic data through the SHAP class for both implementations. Additionally some extra context is provided about how using SMOTE sampling and multi-class labels affect the Shapley values.
 
 Tools
 - encoder: For encoding features using correlation to the binary label.
 - data_visualiser: A tool for visualising within label data to guide the scaler used for a Neural Network.
-- shapmanager: Used to streamline shap visualisations with additional functions such as categorical labeling, grouping of features, color optimisation, etc.
+- shapmanager: Used to streamline SHAP visualisations with additional functions such as categorical labeling, grouping of features, color optimisation, etc.
 
 User Guides
-- Example code of SMOTE and multi-class Tree implementations with the encoder, visualiser, and shap manager class.
+- Example code of using the SMOTE Neural Network and multi-class X-Boost implementations with the encoder, visualiser, and shap manager class.
 
 Project Collaborators:
 - Mathew Coleman (Project Management, General Documentation, Validation Testing)
